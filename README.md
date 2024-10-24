@@ -6,7 +6,7 @@ This project demonstrates a simple Spring Boot application that uses Redis as a 
 
 The `ProductController.java` manages HTTP requests to perform CRUD operations on `Product` entities. It includes methods for saving, finding, updating, and deleting products.
 
-![Product Controller](https://github.com/BharathChavala1/Spring-Data-Redis-Project/blob/main/Images/Controller.png)
+<img src="https://github.com/BharathChavala1/Spring-Data-Redis-Project/blob/main/Images/Controller.png" alt="Product Controller" width="800 height=350" />
 
 In the above code, `@RequestMapping` annotations are used to map web requests to specific handler methods in the `ProductController`. You can perform operations like `save`, `find`, and `update` products using HTTP methods such as `GET`, `POST`, `PUT`, and `DELETE`.
 
